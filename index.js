@@ -1,0 +1,1 @@
+let lastVideo = document.querySelector
